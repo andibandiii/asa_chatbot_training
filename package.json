@@ -20,7 +20,7 @@
     "hubot-telegram": "^0.1.2",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.25",
-    "nodemailer": "^6.0.0"
+    "nodemailer": "^6.4.16"
   },
   "engines": {
     "node": "0.10.x"
